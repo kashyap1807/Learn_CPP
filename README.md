@@ -25,7 +25,7 @@ Driver Programs having all methods
 | 5             | STACK |
 | 6             | QUEUE |
 | 7             | LINKEDLIST |
-| 8             | TREE |
+| 8             | TREE2 |
 | 9             | GRAPH |
 
 ## Contributors
