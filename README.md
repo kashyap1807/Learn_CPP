@@ -20,6 +20,8 @@ Driver Programs having all methods
 | ------------- |:---------------------------------------------------------------| 
 | 1             | STL |
 | 2             | TREE |
+| 3             | SORT |
+
 
 
 ## Contributors
