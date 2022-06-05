@@ -6,7 +6,7 @@ Driver Programs having all methods
 ## Tech stack
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="80" height="80" />
 
-####  Open Source Instructions
+## Open Source Instructions
 
 1. Create a fork.
 2. add your C++ file (formatable and proper commented  code having no errors and having as much as methods in single files )
