@@ -1,5 +1,5 @@
 # STL_CPP
-Driver Programs having all methods in STL 
+Driver Programs having all methods 
 
 ####  Open Source Instructions
 
