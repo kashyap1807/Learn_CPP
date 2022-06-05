@@ -21,8 +21,12 @@ Driver Programs having all methods
 | 1             | STL |
 | 2             | TREE |
 | 3             | SORT |
-
-
+| 4             | SEARCHING |
+| 5             | STACK |
+| 6             | QUEUE |
+| 7             | LINKEDLIST |
+| 8             | TREE |
+| 9             | GRAPH |
 
 ## Contributors
 <a href="https://github.com/jaygajera17/Learn_CPP/graphs/contributors">
